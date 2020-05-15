@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="12" time="0.292356">
+<testcase classname="Mathematics Operations" name="Addition of two numbers" time="0.284977">
+<system-out><![CDATA[Given user has idea of mathematics..........................................passed
+When addition of two numbers is performed...................................passed
+Then output should be displayed.............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Mathematics Operations" name="Substraction of two numbers" time="0.00277">
+<system-out><![CDATA[Given user has idea of mathematics..........................................passed
+When subsaraction of "5" and "6" numbers is performed.......................passed
+Then output should be displayed as "-1".....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Mathematics Operations" name="Multiplication of two numbers" time="0.001631">
+<system-out><![CDATA[Given user has idea of mathematics..........................................passed
+When multiplication of "5" table is performed...............................passed
+Then output should be displayed as follows..................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Mathematics Operations" name="add sub mul of two numbers" time="0.000482">
+<system-out><![CDATA[Given user has idea of mathematics..........................................passed
+When add  sub  mul of "5" and "6"  is performed.............................passed
+Then output should be displayed for all.....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Mathematics Operations" name="only add and sub of two numbers" time="0.000452">
+<system-out><![CDATA[Given user has idea of mathematics..........................................passed
+When on "3" and "4" only add and sub is performed...........................passed
+Then for for add and sub output should be displayed only....................passed
+]]></system-out>
+</testcase>
+<testcase classname="Mathematics Operations" name="print all the inputs" time="0.000265">
+<system-out><![CDATA[Given user has idea of java core............................................passed
+When user has given set of inputs...........................................passed
+Then all the things need to be printed......................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Mathematics Operations" name="key value details mapping" time="0.000294">
+<system-out><![CDATA[Given data is given for key mapping.........................................passed
+When values are given for looping...........................................passed
+Then all the "dheraj" should be printed.....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Mathematics Operations" name="key value details mapping 2" time="0.000294">
+<system-out><![CDATA[Given data is given for key mapping.........................................passed
+When values are given for looping...........................................passed
+Then all the "mahalakshmi" should be printed................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Mathematics Operations" name="key value details mapping 3" time="0.000314">
+<system-out><![CDATA[Given data is given for key mapping.........................................passed
+When values are given for looping...........................................passed
+Then all the "ravindra" should be printed...................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Mathematics Operations" name="key value details mapping 4" time="0.000316">
+<system-out><![CDATA[Given data is given for key mapping.........................................passed
+When values are given for looping...........................................passed
+Then all the "dheraj" and "kumar" should be printed.........................passed
+]]></system-out>
+</testcase>
+<testcase classname="Mathematics Operations" name="key value details mapping 5" time="0.000281">
+<system-out><![CDATA[Given data is given for key mapping.........................................passed
+When values are given for looping...........................................passed
+Then all the "mahalakshmi" and "bachu" should be printed....................passed
+]]></system-out>
+</testcase>
+<testcase classname="Mathematics Operations" name="key value details mapping 6" time="0.00028">
+<system-out><![CDATA[Given data is given for key mapping.........................................passed
+When values are given for looping...........................................passed
+Then all the "ravindra" and "doctor" should be printed......................passed
+]]></system-out>
+</testcase>
+</testsuite>
