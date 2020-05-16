@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="6" time="0.054815">
+<testcase classname="Mathematics Operations" name="key value details mapping" time="0.053233">
+<system-out><![CDATA[Given data is given for key mapping.........................................passed
+When values are given for looping...........................................passed
+Then all the "dheraj" should be printed.....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Mathematics Operations" name="key value details mapping 2" time="0.000311">
+<system-out><![CDATA[Given data is given for key mapping.........................................passed
+When values are given for looping...........................................passed
+Then all the "mahalakshmi" should be printed................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Mathematics Operations" name="key value details mapping 3" time="0.000322">
+<system-out><![CDATA[Given data is given for key mapping.........................................passed
+When values are given for looping...........................................passed
+Then all the "ravindra" should be printed...................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Mathematics Operations" name="key value details mapping 4" time="0.00038">
+<system-out><![CDATA[Given data is given for key mapping.........................................passed
+When values are given for looping...........................................passed
+Then all the "dheraj" and "kumar" should be printed.........................passed
+]]></system-out>
+</testcase>
+<testcase classname="Mathematics Operations" name="key value details mapping 5" time="0.00033">
+<system-out><![CDATA[Given data is given for key mapping.........................................passed
+When values are given for looping...........................................passed
+Then all the "mahalakshmi" and "bachu" should be printed....................passed
+]]></system-out>
+</testcase>
+<testcase classname="Mathematics Operations" name="key value details mapping 6" time="0.000239">
+<system-out><![CDATA[Given data is given for key mapping.........................................passed
+When values are given for looping...........................................passed
+Then all the "ravindra" and "doctor" should be printed......................passed
+]]></system-out>
+</testcase>
+</testsuite>

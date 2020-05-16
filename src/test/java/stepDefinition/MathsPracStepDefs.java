@@ -5,6 +5,8 @@ package stepDefinition;
 import java.util.ArrayList;
 import java.util.List;
 
+import org.junit.Test;
+
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
@@ -20,7 +22,7 @@ int sub3;
 int mulvalue;
 List<String> printlist =new ArrayList<String>();
 	
-	
+	@Test
 	@Given("^user has idea of mathematics$")
 	public void user_has_idea_of_mathematics() throws Throwable {
 	   System.out.println("hai");

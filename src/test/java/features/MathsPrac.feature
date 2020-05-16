@@ -1,4 +1,4 @@
-@smoke
+@smoke @test
 Feature: Mathematics Operations
 
 @add      @addition
